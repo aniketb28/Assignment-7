@@ -124,11 +124,6 @@ Random Forest achieved the highest R² score of **0.956**, making it the best mo
 
 ---
 
-## 📬 Contact
-For questions or collaborations, reach out at [your_email@example.com](mailto:your_email@example.com).
-
----
-
 ## 🎨 Visuals
 Include some example plots or screenshots of your EDA and results for added impact. For example:
 
