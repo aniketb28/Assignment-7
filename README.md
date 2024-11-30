@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction
+# 🚗 Vehicle Price Prediction
 
 This project aims to accurately predict the selling price of used cars using various machine learning models. Through a systematic approach, including data preprocessing, feature engineering, and outlier handling, we identify the best-performing model to achieve high prediction accuracy.
 
